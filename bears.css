@@ -1,0 +1,30 @@
+html{
+    font-size: 24px
+}
+
+body{
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 40em;
+
+}
+
+@media (max-width: 961px) {
+    body{
+        width:75%;
+        
+    }
+}
+@media (max-width: 961px) {
+    .menu{
+        width:75%;
+        
+    }
+}
+@media (max-width: 961px) {
+    img{
+        width:100%;
+
+    }
+}
